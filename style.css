@@ -1,0 +1,33 @@
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 30px;
+	background-color: red;
+}
+p{
+    margin-top: 70px;
+}
+img{
+    padding: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+#slika3{
+    float: left;
+}
+#slika2{
+    float: right;
+}
+#pozadina{
+    background-image: url("ostale/slike/pozadina.jpg");
+}
+.pocetna{
+    color: #fff;
+    text-shadow: 2px 2px #000;
+}
